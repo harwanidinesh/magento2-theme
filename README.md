@@ -15,6 +15,14 @@ code/theme-frontend-luma-new
 
 5) moved the logo on left side and search button with add to cart  on right side 
 
+6) product view page 
+
+
+![Alt text] (https://github.com/harwanidinesh/magento2-theme/blob/main/images/product-view.png "Optional title")
+
+
+
+
 ( please note the folder name of setup on localhost  was as follwing below 
 
 http://localhost/magento-ce-2.3.4-p2-2020-04-25-01-06-17/ )
