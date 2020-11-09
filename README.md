@@ -11,4 +11,10 @@ code/theme-frontend-luma-new
 
 ![Alt text](https://github.com/harwanidinesh/magento2-theme/blob/main/images/front-product.png "Optional title")
 
+4) Done task for the subscribe news letter 
+
+5) moved the logo on left side and search button with add to cart  on right side 
+
+
+
 
